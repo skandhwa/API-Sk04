@@ -1,0 +1,30 @@
+Assignment 1
+
+1. For first post request 
+
+Keep base URI as environment variable
+
+Pass ISBN and AISLE from pre request script
+
+
+In Response 
+
+Validate the status code
+Validate that ID that is generated is a combination of ISBN and AISLE 
+Validate the response time
+Validate the message as successfully added 
+
+
+2>Library/GetBook.php?ID=3389      
+
+For this validate the book name , ISBN ,author 
+Validate the status code 
+Validate the response time
+
+
+3> Create a POSTMAN monitor and execute the collection and capture the email generated 
+
+4>Create a CURL command for both the two request  and check that after putting the CURL command in the postman you are getting the correct response
+
+
+5>Create a Newman report with the collections and the environment variable 
